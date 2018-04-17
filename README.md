@@ -1,2 +1,2 @@
 # Python-For-Datascience
-This contains the Notes for python which can asks as a quick notes to brush up your skills in Python for Data science perspective.
+This contains python notebook which can acts as a quick notes to brush up your skills/ to learn Python from Data science perspective.
